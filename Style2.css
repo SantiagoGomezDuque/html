@@ -1,0 +1,46 @@
+/*
+h1{
+    color: red;
+}
+
+h4{
+    background-color: royalblue;
+
+}
+
+section{ background-color: yellow;}
+section div {
+    width: 500px; color: black;
+    height: 200px;
+    border: solid 2px; color: black;
+   overflow: hidden;
+  margin: auto;
+  /*margin-top: 20px;
+  margin-left: 200;
+  margin-bottom: 200;
+  margin-right: 300;*/
+/*  padding: 30px;*/
+
+/*}
+.uno {
+    background-color: blueviolet;
+}
+.dos {
+    background-color: darkgoldenrod;
+}*/
+.contenedor{
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
+}
+.contenedor img{
+    width: 100%;
+}
+
+.contenedor img:hover{
+    /*transform: scale(2);*/
+    transition: 2s;
+   /* transform: rotate(360deg);
+}
+*/
+transform: translate(50px,60px);

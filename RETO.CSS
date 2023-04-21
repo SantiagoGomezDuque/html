@@ -1,0 +1,19 @@
+
+h1, p{
+    background-color: limegreen;
+
+section > p {
+    color: aqua;
+    background-color: black;
+}
+
+li{
+    background-color: chartreuse;
+}
+#uno{
+    background-color: cyan;
+}
+.dos{
+    background-color: darkred;
+} 
+
